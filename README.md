@@ -10,6 +10,12 @@ FairShare offers the following features:
 - **Split Bill:** Users can specify the number of people splitting the bill to calculate the amount each person needs to pay.
 - **Easy Reset:** A reset button allows users to clear all inputs and start over.
 
+## Screenshots
+
+<img src="https://github.com/05Waleed/FairShare-Demo-App/assets/139551937/68b98e36-d190-468b-9356-4c8789bea2ea" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-29 at 19 49 23" width="300"/>
+<img src="https://github.com/05Waleed/FairShare-Demo-App/assets/139551937/bc232c5b-0efc-4972-8635-34db77b6a3de" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-29 at 19 49 38" width="300"/>
+<img src="https://github.com/05Waleed/FairShare-Demo-App/assets/139551937/28b3f44f-e6b2-41de-a8c3-a1c237314a0e" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-29 at 19 50 07" width="300"/>
+
 ## Installation
 
 To use FairShare, follow these steps:

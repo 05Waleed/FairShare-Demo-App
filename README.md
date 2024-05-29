@@ -1,4 +1,4 @@
-FairShare - Tip Calculator
+#FairShare - Tip Calculator
 
 FairShare is a simple iOS app that helps users calculate tips and split bills among friends or colleagues. This README file provides an overview of the app's features, functionality, and installation instructions.
 
